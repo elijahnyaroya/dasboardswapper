@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tiledlayout"
+        android:icon="@drawable/ic_tiledlayout"
+        android:title="Tile Layout"/>
+    <item
+        android:id="@+id/linearlayout"
+        android:icon="@drawable/ic_linearlayout"
+        android:title="Linear Layout" />
+
+    <item
+        android:id="@+id/StaggeredGridLayoutManager"
+        android:icon="@drawable/ic_ataggeredlayout"
+        android:title="Staggered Layout"/>
+
+    <item
+        android:id="@+id/filmstrip"
+        android:icon="@drawable/ic_ataggeredlayout"
+        android:title="Film Strip"/>
+    <item
+        android:id="@+id/screenShot"
+        android:icon="@drawable/ic_camera"
+        android:title="Take Screenshot"/>
+
+</menu>
